@@ -1,2 +1,2 @@
 # cybersecurity
-Here I will show my cyber security projects
+Here I will show my cybersecurity projects
